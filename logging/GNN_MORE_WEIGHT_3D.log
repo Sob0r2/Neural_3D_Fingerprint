@@ -1,0 +1,144 @@
+2025-05-14 15:11:27,953 - Logging initialized.
+2025-05-14 15:11:27,953 - Logging has started...
+2025-05-14 15:11:27,953 - Training GNN_MORE_WEIGHT_3D
+2025-05-14 15:11:27,954 - Using device: cuda:0
+2025-05-14 15:11:27,954 - Temperature: 0.1, Batch Size: 512, Epochs: 50
+2025-05-14 15:15:23,902 - Epoch 0 - Avg Train Loss: 6.0194
+2025-05-14 15:19:48,329 - Epoch 1 - Avg Train Loss: 6.1584
+2025-05-14 15:24:10,101 - Epoch 2 - Avg Train Loss: 6.1350
+2025-05-14 15:28:51,219 - Epoch 3 - Avg Train Loss: 6.0079
+2025-05-14 15:32:55,639 - Epoch 4 - Avg Train Loss: 6.2140
+2025-05-14 15:36:46,349 - Epoch 5 - Avg Train Loss: 6.0108
+2025-05-14 15:40:37,756 - Epoch 6 - Avg Train Loss: 6.0827
+2025-05-14 15:44:29,925 - Epoch 7 - Avg Train Loss: 6.0301
+2025-05-14 15:48:14,722 - Epoch 8 - Avg Train Loss: 5.8288
+2025-05-14 15:51:50,600 - Epoch 9 - Avg Train Loss: 5.8955
+2025-05-14 15:55:24,084 - Epoch 10 - Avg Train Loss: 5.6939
+2025-05-14 15:58:56,749 - Epoch 11 - Avg Train Loss: 5.8640
+2025-05-14 16:02:27,395 - Epoch 12 - Avg Train Loss: 5.7942
+2025-05-14 16:05:57,192 - Epoch 13 - Avg Train Loss: 5.7328
+2025-05-14 16:09:27,706 - Epoch 14 - Avg Train Loss: 5.7677
+2025-05-14 16:12:58,090 - Epoch 15 - Avg Train Loss: 5.6891
+2025-05-14 16:16:28,007 - Epoch 16 - Avg Train Loss: 5.7005
+2025-05-14 16:19:57,931 - Epoch 17 - Avg Train Loss: 5.6114
+2025-05-14 16:23:29,688 - Epoch 18 - Avg Train Loss: 5.7012
+2025-05-14 16:26:59,165 - Epoch 19 - Avg Train Loss: 6.1833
+2025-05-14 16:30:28,169 - Epoch 20 - Avg Train Loss: 6.1668
+2025-05-14 16:34:08,319 - Epoch 21 - Avg Train Loss: 6.1056
+2025-05-14 17:02:28,592 - Logging initialized.
+2025-05-14 17:02:28,593 - Logging has started...
+2025-05-14 17:02:28,593 - Training GNN_MORE_WEIGHT_3D
+2025-05-14 17:02:28,593 - Using device: cuda:0
+2025-05-14 17:02:28,593 - Temperature: 0.1, Batch Size: 512, Epochs: 50
+2025-05-14 17:06:30,939 - Logging initialized.
+2025-05-14 17:06:30,939 - Logging has started...
+2025-05-14 17:06:30,939 - Training GNN_MORE_WEIGHT_3D
+2025-05-14 17:06:30,939 - Using device: cuda:0
+2025-05-14 17:06:30,939 - Temperature: 0.1, Batch Size: 512, Epochs: 50
+2025-05-14 17:09:26,663 - Logging initialized.
+2025-05-14 17:09:26,663 - Logging has started...
+2025-05-14 17:09:26,664 - Training GNN_MORE_WEIGHT_3D
+2025-05-14 17:09:26,664 - Using device: cuda:0
+2025-05-14 17:09:26,664 - Temperature: 0.1, Batch Size: 512, Epochs: 50
+2025-05-14 17:27:47,721 - Logging initialized.
+2025-05-14 17:27:47,722 - Logging has started...
+2025-05-14 17:27:47,722 - Training GNN_MORE_WEIGHT_3D
+2025-05-14 17:27:47,722 - Using device: cuda:0
+2025-05-14 17:27:47,722 - Temperature: 0.1, Batch Size: 512, Epochs: 50
+2025-05-14 17:30:23,800 - Logging initialized.
+2025-05-14 17:30:23,801 - Logging has started...
+2025-05-14 17:30:23,801 - Training GNN_MORE_WEIGHT_3D
+2025-05-14 17:30:23,801 - Using device: cuda:0
+2025-05-14 17:30:23,801 - Temperature: 0.1, Batch Size: 512, Epochs: 50
+2025-05-14 17:33:03,754 - Logging initialized.
+2025-05-14 17:33:03,755 - Logging has started...
+2025-05-14 17:33:03,755 - Training GNN_MORE_WEIGHT_3D
+2025-05-14 17:33:03,755 - Using device: cuda:0
+2025-05-14 17:33:03,755 - Temperature: 0.1, Batch Size: 512, Epochs: 50
+2025-05-14 17:34:42,857 - Logging initialized.
+2025-05-14 17:34:42,858 - Logging has started...
+2025-05-14 17:34:42,858 - Training GNN_MORE_WEIGHT_3D
+2025-05-14 17:34:42,858 - Using device: cuda:0
+2025-05-14 17:34:42,858 - Temperature: 0.1, Batch Size: 512, Epochs: 50
+2025-05-14 17:35:05,434 - Logging initialized.
+2025-05-14 17:35:05,434 - Logging has started...
+2025-05-14 17:35:05,434 - Training GNN_MORE_WEIGHT_3D
+2025-05-14 17:35:05,434 - Using device: cuda:0
+2025-05-14 17:35:05,434 - Temperature: 0.1, Batch Size: 512, Epochs: 50
+2025-05-14 17:35:19,450 - Logging initialized.
+2025-05-14 17:35:19,451 - Logging has started...
+2025-05-14 17:35:19,451 - Training GNN_MORE_WEIGHT_3D
+2025-05-14 17:35:19,451 - Using device: cuda:0
+2025-05-14 17:35:19,451 - Temperature: 0.1, Batch Size: 512, Epochs: 50
+2025-05-14 17:35:40,961 - Logging initialized.
+2025-05-14 17:35:40,962 - Logging has started...
+2025-05-14 17:35:40,962 - Training GNN_MORE_WEIGHT_3D
+2025-05-14 17:35:40,962 - Using device: cuda:0
+2025-05-14 17:35:40,962 - Temperature: 0.1, Batch Size: 512, Epochs: 50
+2025-05-14 17:35:53,920 - Logging initialized.
+2025-05-14 17:35:53,921 - Logging has started...
+2025-05-14 17:35:53,921 - Training GNN_MORE_WEIGHT_3D
+2025-05-14 17:35:53,921 - Using device: cuda:0
+2025-05-14 17:35:53,921 - Temperature: 0.1, Batch Size: 512, Epochs: 50
+2025-05-14 17:36:09,415 - Logging initialized.
+2025-05-14 17:36:09,415 - Logging has started...
+2025-05-14 17:36:09,416 - Training GNN_MORE_WEIGHT_3D
+2025-05-14 17:36:09,416 - Using device: cuda:0
+2025-05-14 17:36:09,416 - Temperature: 0.1, Batch Size: 512, Epochs: 50
+2025-05-14 17:36:22,493 - Logging initialized.
+2025-05-14 17:36:22,494 - Logging has started...
+2025-05-14 17:36:22,494 - Training GNN_MORE_WEIGHT_3D
+2025-05-14 17:36:22,494 - Using device: cuda:0
+2025-05-14 17:36:22,494 - Temperature: 0.1, Batch Size: 512, Epochs: 50
+2025-05-14 17:41:22,320 - Epoch 0 - Avg Train Loss: 4.8904
+2025-05-14 17:46:38,532 - Epoch 1 - Avg Train Loss: 3.9844
+2025-05-14 17:51:47,904 - Epoch 2 - Avg Train Loss: 3.0823
+2025-05-14 17:56:48,980 - Epoch 3 - Avg Train Loss: 2.5986
+2025-05-14 18:01:49,696 - Epoch 4 - Avg Train Loss: 2.0532
+2025-05-14 18:06:47,839 - Epoch 5 - Avg Train Loss: 2.1707
+2025-05-14 18:11:48,634 - Epoch 6 - Avg Train Loss: 1.8423
+2025-05-14 18:16:50,997 - Epoch 7 - Avg Train Loss: 1.7221
+2025-05-14 18:21:51,416 - Epoch 8 - Avg Train Loss: 1.8201
+2025-05-14 18:26:52,893 - Epoch 9 - Avg Train Loss: 1.6754
+2025-05-14 18:31:51,380 - Epoch 10 - Avg Train Loss: 1.3496
+2025-05-14 18:36:48,526 - Epoch 11 - Avg Train Loss: 1.4267
+2025-05-14 18:41:45,793 - Epoch 12 - Avg Train Loss: 1.4948
+2025-05-14 18:46:44,341 - Epoch 13 - Avg Train Loss: 1.3134
+2025-05-14 18:51:42,366 - Epoch 14 - Avg Train Loss: 1.4487
+2025-05-14 18:56:40,896 - Epoch 15 - Avg Train Loss: 1.4072
+2025-05-14 19:01:39,908 - Epoch 16 - Avg Train Loss: 1.4864
+2025-05-14 19:06:38,045 - Epoch 17 - Avg Train Loss: 1.2515
+2025-05-14 19:11:34,340 - Epoch 18 - Avg Train Loss: 1.3638
+2025-05-14 19:16:33,830 - Epoch 19 - Avg Train Loss: 1.3740
+2025-05-14 19:21:31,351 - Epoch 20 - Avg Train Loss: 1.4969
+2025-05-14 19:26:29,444 - Epoch 21 - Avg Train Loss: 1.3463
+2025-05-14 19:31:27,388 - Epoch 22 - Avg Train Loss: 1.4965
+2025-05-14 19:36:22,738 - Epoch 23 - Avg Train Loss: 1.3104
+2025-05-14 19:41:19,395 - Epoch 24 - Avg Train Loss: 1.1172
+2025-05-14 19:46:16,912 - Epoch 25 - Avg Train Loss: 1.0408
+2025-05-14 19:51:14,202 - Epoch 26 - Avg Train Loss: 1.3502
+2025-05-14 19:56:10,961 - Epoch 27 - Avg Train Loss: 1.2271
+2025-05-14 20:01:11,944 - Epoch 28 - Avg Train Loss: 1.2085
+2025-05-14 20:06:07,377 - Epoch 29 - Avg Train Loss: 1.2878
+2025-05-14 20:11:03,119 - Epoch 30 - Avg Train Loss: 1.2391
+2025-05-14 20:15:58,584 - Epoch 31 - Avg Train Loss: 1.2793
+2025-05-14 20:20:53,946 - Epoch 32 - Avg Train Loss: 1.2634
+2025-05-14 20:25:50,070 - Epoch 33 - Avg Train Loss: 1.4279
+2025-05-14 20:30:44,970 - Epoch 34 - Avg Train Loss: 1.1278
+2025-05-14 20:35:40,674 - Epoch 35 - Avg Train Loss: 1.0466
+2025-05-14 20:40:35,743 - Epoch 36 - Avg Train Loss: 1.1496
+2025-05-14 20:45:31,530 - Epoch 37 - Avg Train Loss: 1.2101
+2025-05-14 20:50:27,509 - Epoch 38 - Avg Train Loss: 1.0913
+2025-05-14 20:55:23,332 - Epoch 39 - Avg Train Loss: 1.0977
+2025-05-14 21:00:17,987 - Epoch 40 - Avg Train Loss: 1.0252
+2025-05-14 21:05:13,139 - Epoch 41 - Avg Train Loss: 1.1794
+2025-05-14 21:10:09,124 - Epoch 42 - Avg Train Loss: 1.0973
+2025-05-14 21:15:04,703 - Epoch 43 - Avg Train Loss: 1.2040
+2025-05-14 21:20:00,855 - Epoch 44 - Avg Train Loss: 1.0918
+2025-05-14 21:24:55,996 - Epoch 45 - Avg Train Loss: 1.4310
+2025-05-14 21:29:52,466 - Epoch 46 - Avg Train Loss: 1.2314
+2025-05-14 21:34:46,427 - Epoch 47 - Avg Train Loss: 1.0444
+2025-05-14 21:39:41,631 - Epoch 48 - Avg Train Loss: 1.2437
+2025-05-14 21:44:36,488 - Epoch 49 - Avg Train Loss: 1.1623
+2025-05-14 21:44:36,524 - Model saved to models\GNN_MORE_WEIGHT_3D.pth
+2025-05-14 21:44:36,524 - Training finished.
