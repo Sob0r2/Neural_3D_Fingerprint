@@ -69,7 +69,6 @@ This project uses two main datasets:
 
 - **CHEMBL**  
   Data related to serotonin receptors, used to evaluate the 2D performance of fingerprints on tasks like predicting chemical activity (Ki).  
-  *(Add download link for CHEMBL dataset here)*
 
 ---
 
