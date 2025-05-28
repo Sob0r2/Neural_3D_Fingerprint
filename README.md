@@ -122,13 +122,14 @@ If you retrain the model or tune hyperparameters, remember to update the path to
 Results for all hypotheses tested on both 2D and 3D tasks are available below:
 
 1. **Comparison with other fingerprints(ECFP, MACCS, RDF, etc.)**
+   
    👉 [View notebook](https://github.com/Sob0r2/Neural_3D_Fingerprint/tree/main/app/hypotheses/compare_with_other_fingerprints)
 
-2. **Comparison with a model trained on molecule-level descriptors**  
+3. **Comparison with a model trained on molecule-level descriptors**  
    👉 [View notebook](https://github.com/Sob0r2/Neural_3D_Fingerprint/tree/main/app/hypotheses/atom_vs_mol_level)
 
-3. **Comparison with a model trained only on 2D features**  
+4. **Comparison with a model trained only on 2D features**  
    👉 [View notebook](https://github.com/Sob0r2/Neural_3D_Fingerprint/tree/main/app/hypotheses/3D_vs_2D_model)
 
-4. **Impact of 3D weight scaling when selecting positive pairs for contrastive learning**  
+5. **Impact of 3D weight scaling when selecting positive pairs for contrastive learning**  
    👉 [View notebook](https://github.com/Sob0r2/Neural_3D_Fingerprint/tree/main/app/hypotheses/impact_of_finding_pairs_weights)
