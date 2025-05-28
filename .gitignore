@@ -1,1 +1,5 @@
-data
+data/qm9_data
+data/qm9_data_json
+data/final_df_dict.pkl
+data/similar_mol.json
+.env
