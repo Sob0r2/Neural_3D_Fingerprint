@@ -58,7 +58,7 @@ Below are the key requirements:
 - pandas  
 - scikit-learn  
 - tqdm
-# Datasets
+## Datasets
 
 This project uses two main datasets:
 
@@ -99,7 +99,7 @@ python app/data_preprocessing/run_preprocessing.py
 python app/create_pos_pairs/run_faiss.py
 ```
 > **Note:** This step may take several hours depending on your hardware.
-# Training and Adjusting the Model
+## Training and Adjusting the Model
 
 To train the model from scratch, run the training notebook:
 
