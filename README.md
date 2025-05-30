@@ -105,7 +105,7 @@ To train the model from scratch, run the training notebook:
 
 ```python
 # Run this notebook to train the model
-python app/model/train_model.ipynb
+app/model/train_model.ipynb
 ```
 
 The final trained model weights are saved in:
