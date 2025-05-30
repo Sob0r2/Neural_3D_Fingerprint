@@ -58,7 +58,7 @@ def find_most_similar_mols(df, indices):
     for idx in indices[1:]:
         mol2 = Chem.MolFromMolFile(df.iloc[idx]["file_path"], removeHs=False)
         sim2d, sim3d = calculate_similarity(mol1, mol2)
-        scores.append(sim2d + 1.25 * sim3d)
+        scores.append(sim2d + 1.1 * sim3d)
 
     sorted_indices = np.argsort(scores)[::-1][:5]
     return [df.iloc[indices[i + 1]]["file_path"] for i in sorted_indices]

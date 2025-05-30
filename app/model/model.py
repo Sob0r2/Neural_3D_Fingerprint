@@ -30,6 +30,7 @@ class GNNLayer(nn.Module):
 
     def forward(self, h, edge_index, edge_attr):
         row, col = edge_index
+        
         node_feat = torch.cat([h[row], edge_attr], dim=1)
         delta_h = self.node_mlp(node_feat)
 
