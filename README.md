@@ -58,7 +58,7 @@ Below are the key requirements:
 - pandas  
 - scikit-learn  
 - tqdm
-# Datasets
+## Datasets
 
 This project uses two main datasets:
 
@@ -69,6 +69,7 @@ This project uses two main datasets:
 
 - **CHEMBL**  
   Data related to serotonin receptors, used to evaluate the 2D performance of fingerprints on tasks like predicting chemical activity (Ki).  
+  *(Add download link for CHEMBL dataset here)*
 
 ---
 
@@ -98,7 +99,7 @@ python app/data_preprocessing/run_preprocessing.py
 python app/create_pos_pairs/run_faiss.py
 ```
 > **Note:** This step may take several hours depending on your hardware.
-# Training and Adjusting the Model
+## Training and Adjusting the Model
 
 To train the model from scratch, run the training notebook:
 
@@ -116,7 +117,19 @@ models/FINAL_MODEL.pth
 Use these weights in the notebooks located in the `hypotheses/` folder for evaluation or inference.
 
 If you retrain the model or tune hyperparameters, remember to update the path to the weights file in the `hypotheses/` notebooks accordingly.
-
 ## Results
 
-TO:DO
+Results for all hypotheses tested on both 2D and 3D tasks are available below:
+
+1. **Comparison with other fingerprints(ECFP, MACCS, RDF, etc.)**
+   
+   👉 [View notebook](https://github.com/Sob0r2/Neural_3D_Fingerprint/tree/main/app/hypotheses/compare_with_other_fingerprints)
+
+3. **Comparison with a model trained on molecule-level descriptors**  
+   👉 [View notebook](https://github.com/Sob0r2/Neural_3D_Fingerprint/tree/main/app/hypotheses/atom_vs_mol_level)
+
+4. **Comparison with a model trained only on 2D features**  
+   👉 [View notebook](https://github.com/Sob0r2/Neural_3D_Fingerprint/tree/main/app/hypotheses/3D_vs_2D_model)
+
+5. **Impact of 3D weight scaling when selecting positive pairs for contrastive learning**  
+   👉 [View notebook](https://github.com/Sob0r2/Neural_3D_Fingerprint/tree/main/app/hypotheses/impact_of_finding_pairs_weights)
